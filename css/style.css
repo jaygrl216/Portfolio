@@ -1,0 +1,45 @@
+html, body {
+  height: 100%;
+}
+
+h1 {
+  color:rgba(255,255,255,1);
+  padding-top: 15%;
+}
+
+h6 {
+  color:rgba(255,255,255,0.8);
+}
+
+#intro {
+  height:100%;
+  width: 100%;
+  background-image: url('../images/hustle.jpg');
+  background-size: cover;
+  margin-bottom: 15px;
+}
+
+
+
+nav {
+  /*border-bottom: 1px solid rgba(255,255,255,0.5);*/
+  float:right;
+}
+
+nav a {
+  margin: 0px, 10px;
+  font-size: 18px;
+}
+
+nav a:link {
+    color:rgba(255,255,255,1);
+
+}
+
+nav a:visited {
+  color:rgba(255,255,255,1);
+}
+
+header {
+  clear: both;
+}
